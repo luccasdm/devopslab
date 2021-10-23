@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Versão do Ubuntu
 dist: focal
 
@@ -30,4 +29,4 @@ install:
 # Defini o script de Teste que deve rodar toda vez que o código for alterado.
 script:
   - python -m unittest -v test
->>>>>>> 3ff917f96c17d4d8cd6615537557d05e77162798
+
