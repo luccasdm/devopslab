@@ -11,7 +11,7 @@ python:
 # Instalação de Módulos que são necessários para a Aplicação.
 install:
   - pip install flask
-=======
+
 # Versão do Ubuntu
 dist: focal
 
